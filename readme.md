@@ -11,7 +11,7 @@ https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js
 for detection you can use third part projects like modernizr or featurejs
 
 Example
-´´´´´´´´´´
+``````````
 Polyfiller
 // pre defined urls
   .map({
@@ -54,16 +54,17 @@ Polyfiller
   .ready(function() { 
     // your code 
   });
-´´´´´´´´´´
+``````````
 
 
 You can also load styles with load function
+``````````
 Polyfiller
     .load('local/cdn/URL.css', 'link')
     .then(function()) {
         // ready
     });
-    
+``````````
     
 ## documentation
 
