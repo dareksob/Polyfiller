@@ -1,0 +1,32 @@
+{
+  "name": "polyfiller",
+  "version": "0.0.1",
+  "description": "Manage your enviroment nodes",
+  "main": "src/Polyfiller.js",
+  "files": [
+    "src/Polyfiller.js"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dareksob/Polyfiller.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "utility",
+    "ecmascript",
+    "javascript"
+  ],
+  "author": "Darius Sobczak <mail@dsobczak.de>",
+  "bugs": {
+    "url": "https://github.com/dareksob/Polyfiller/issues"
+  },
+  "homepage": "https://github.com/dareksob/Polyfiller#readme",
+  "devDependencies": {
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.2"
+  }
+}

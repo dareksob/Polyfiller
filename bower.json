@@ -1,0 +1,13 @@
+{
+  "name": "polyfiller",
+  "version": "0.0.1",
+  "description": "Manage your enviroment nodes",
+  "main": "src/Polyfiller.js",
+  "authors": [
+    "Darius Sobczak <mail@dsobczak.de>"
+  ],
+  "moduleType": [],
+  "ignore": [
+    "node_modules"
+  ]
+}
